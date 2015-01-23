@@ -1,0 +1,17 @@
+{
+  "name": "create_account",
+  "version": "0.0.1",
+  "description": "Create the Twitter account",
+  "main": "app.coffee",
+  "scripts": {
+    "start": "coffee app.coffee"
+  },
+  "author": "dll7",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "^1.8.0",
+    "colors": "^1.0.3",
+    "js-yaml": "^3.2.5",
+    "oauth": "^0.9.12"
+  }
+}
